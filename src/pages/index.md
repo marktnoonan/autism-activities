@@ -6,16 +6,27 @@ heading: ''
 subheading: ''
 mainpitch:
   title: Welcome to AutismActivities.ie
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  description: >-
+    ![](/img/autism-activities.png)
+
+
+    Welcome to AutismActivities.ie, which will soon be a portal showcasing
+    autism-friendly places, events and groups across the island of Ireland.
+
+
+    You can scroll down to learn more about what we're doing, and why. 
+
+
+    Please drop us a line here if you would be interested in hearing more about,
+    and using, the site as it develops. 
+
+
+    We're also seeking suggestions for things to include; if you know of
+    anything, or run something, please email us.
+
+
+    We hope to launch the first version of the portal in autumn 2019.
+description: ''
 intro:
   blurbs:
     - image: /img/coffee.png
