@@ -7,7 +7,7 @@ subheading: ''
 mainpitch:
   title: Welcome to AutismActivities.ie
   description: >-
-    ![](/img/autism-activities.png)
+    ![Autism Activities Logo](/img/autism-activities.png)
 
 
     Welcome to AutismActivities.ie, which will soon be a portal showcasing
